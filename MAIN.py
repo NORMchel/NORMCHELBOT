@@ -17,7 +17,7 @@ logging.basicConfig(level=logging.INFO)
 
 
 # bot init
-bot = Bot(token='5331894691:AAG0LtvgdW-IzuC9SQ85dOIumgrxj3zmiM4')
+bot = Bot(token='5695787968:AAHZpj2w6ysPMOkj9t-9aXCf8qn4iGa0HkE')
 dp = Dispatcher(bot)
 logchat = 5198851731
 #datebase
