@@ -19,7 +19,7 @@ logging.basicConfig(level=logging.INFO)
 # bot init
 bot = Bot(token='5331894691:AAG0LtvgdW-IzuC9SQ85dOIumgrxj3zmiM4')
 dp = Dispatcher(bot)
-logchat = 827638161
+logchat = 5198851731
 #datebase
 connect = sqlite3.connect("user.db")
 cursor = connect.cursor()
